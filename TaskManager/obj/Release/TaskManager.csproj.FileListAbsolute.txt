@@ -1,0 +1,7 @@
+c:\users\albalach\documents\visual studio 2013\Projects\TaskManager\TaskManager\bin\Release\TaskManager.exe
+c:\users\albalach\documents\visual studio 2013\Projects\TaskManager\TaskManager\bin\Release\TaskManager.exe.config
+c:\users\albalach\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Release\TaskManager.Form1.resources
+c:\users\albalach\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Release\TaskManager.Properties.Resources.resources
+c:\users\albalach\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Release\TaskManager.csproj.GenerateResource.Cache
+c:\users\albalach\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Release\TaskManager.exe
+c:\users\albalach\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Release\TaskManager.pdb
